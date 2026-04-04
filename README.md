@@ -7,31 +7,31 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 CS Student at RVCE  
-- 🧠 Passionate about **AI, Machine Learning & Intelligent Systems**  
-- 🔬 Exploring **Computer Vision, LLMs & Network Security**  
-- 🚀 Love building **real-world impactful projects**  
-- 💡 Strong in **problem-solving, ideation & innovation**  
+##  About Me
+- CS Student at RVCE  
+- Passionate about **AI, Machine Learning & Intelligent Systems**  
+-  Exploring **Computer Vision, LLMs & Network Security**  
+-  Love building **real-world impactful projects**  
+-  Strong in **problem-solving, ideation & innovation**  
 
 ---
 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 `C` `Java` `Python` `JavaScript` `TypeScript`
 
-### 🌐 Web Development
+###  Web Development
 `React` `Next.js` `Angular` `HTML` `CSS` `Node.js` `Express`
 
-### 🧠 AI/ML
+###  AI/ML
 `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV`
 
-### 🗄️ Databases
+###  Databases
 `MySQL` `PostgreSQL` `MongoDB`
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 `Docker` `Git` `Linux` `Firebase` `AWS` `Nginx`
 
 ---
@@ -46,13 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhivk09&layout=compact&theme=radical"/>
 </p>
-
----
-
-## 🏆 Achievements
-- 🌟 **#empowHERaccess Role Model of the Year 2024**
-- 🧩 Smart India Hackathon Participant  
-- 💡 Active in tech communities & leadership initiatives  
 
 ---
 
@@ -74,9 +67,6 @@
 ---
 
 ## 🚀 Let's Collaborate!
-I'm always open to:
-- 🤝 Collaborations  
-- 💡 Innovative ideas  
-- 🧠 AI/ML discussions  
+
 
 Feel free to reach out!
