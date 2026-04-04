@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Kulkarni</h1>
-<h3 align="center">🚀 AI | ML | Computer Vision | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhivk09&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
+
 
 ---
 
