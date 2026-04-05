@@ -26,7 +26,7 @@
 `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV`
 
 ###  Databases
-`MySQL` `PostgreSQL` `MongoDB`
+`MySQL` `PostgreSQL` `MongoDB` `Supabase` `Firebase`  
 
 ###  Tools & Platforms
 `Docker` `Git` `Linux` `Firebase` `AWS` `Nginx`
